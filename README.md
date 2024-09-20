@@ -4,8 +4,8 @@ Building a multi-cloud IAM solution using AWS and Azure. Will be showcasing how 
 
 Steps:
 1. Set up AWS IAM:
-  *Create multiple user roles with different permissions (e.g., Admin, Developer, Viewer).
-  *Define and attach IAM policies for each role to limit their access to specific resources.
+  * Create multiple user roles with different permissions (e.g., Admin, Developer, Viewer).
+  * Define and attach IAM policies for each role to limit their access to specific resources.
 
 2. Set up Azure Active Directory (AD):
   * Create user roles in Azure AD similar to AWS IAM (e.g., Admin, Developer).
