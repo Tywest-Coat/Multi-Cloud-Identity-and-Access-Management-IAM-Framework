@@ -7,7 +7,10 @@ This project demonstrates how to integrate **AWS IAM** and **Azure Active Direct
 Link to Video Outlining Steps:
 https://youtu.be/S0_wozfkBXY
 
-[![Watch the video]()](https://youtu.be/S0_wozfkBXY)
+
+
+[![Watch the video](https://img.youtube.com/vi/S0_wozfkBXY/maxresdefault.jpg)](https://youtu.be/S0_wozfkBXY)
+
 
 
 ## Architecture
