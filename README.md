@@ -9,7 +9,7 @@ https://youtu.be/S0_wozfkBXY
 
 
 
-[![Watch the video](https://img.youtube.com/vi/S0_wozfkBXY/maxresdefault.jpg)](https://youtu.be/S0_wozfkBXY)
+[![Watch the video](https://img.youtube.com/vi/S0_wozfkBXY/hqdefault.jpg)](https://youtu.be/S0_wozfkBXY)
 
 
 
