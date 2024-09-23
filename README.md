@@ -4,6 +4,7 @@
 
 This project demonstrates how to integrate **AWS IAM** and **Azure Active Directory (Azure AD)** to create a **multi-cloud Identity and Access Management (IAM) framework**. The goal is to securely manage user access across both AWS and Azure environments, leveraging **SAML-based federated access** and implementing security best practices such as **MFA**, **least privilege** access control, and **conditional access policies**.
 
+Link to Video Outlining Steps:
 https://youtu.be/S0_wozfkBXY
 
 
