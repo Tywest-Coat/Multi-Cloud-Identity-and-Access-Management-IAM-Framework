@@ -13,8 +13,6 @@ https://youtu.be/S0_wozfkBXY
 
 
 
-# AWS Single Sign-On (SSO) Integration with Azure Active Directory
-
 This guide provides step-by-step instructions to configure **AWS SSO** integration with **Azure Active Directory (Azure AD)** using SAML-based authentication.
 
 ## Prerequisites
